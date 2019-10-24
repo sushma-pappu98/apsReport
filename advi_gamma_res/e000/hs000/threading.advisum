@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE IntelParallelAdvisorSummaryCollection SYSTEM  "IntelParallelAdvisorSummaryCollection.dtd"> -->
+
+<IntelParallelAdvisorSummary version="" 
+                             kind="DATAKIND_SURVEY_EX" >
+  <hotspot filename=""
+           line_no="4294967295"
+           routine="__libc_csu_init"
+           is_vectorized="0"
+           self_time="0.000000E+00"
+           total_time="3.600152E-01"
+           trip_counts=""
+           func_instance="109"
+           priority="0"/>
+  <hotspot filename="/home/u30005/sushma/gamma-correction/src/utils/Img.hpp"
+           line_no="159"
+           routine="Img&lt;ImgFormat::BMP&gt;::fill&lt;main::$_1&gt;"
+           is_vectorized="0"
+           self_time="0.000000E+00"
+           total_time="6.619967E+00"
+           trip_counts=""
+           func_instance="132"
+           priority="0"/>
+  <hotspot filename=""
+           line_no="4294967295"
+           routine="cl::sycl::detail::ProgramManager::getBuiltOpenCLProgram"
+           is_vectorized="0"
+           self_time="0.000000E+00"
+           total_time="4.300000E-01"
+           trip_counts=""
+           func_instance="567"
+           priority="0"/>
+  <hotspot filename=""
+           line_no="4294967295"
+           routine="cl::sycl::detail::ProgramManager::getBuiltOpenCLProgram"
+           is_vectorized="0"
+           self_time="0.000000E+00"
+           total_time="4.300000E-01"
+           trip_counts=""
+           func_instance="570"
+           priority="0"/>
+  <hotspot filename="/home/u30005/sushma/gamma-correction/src/utils/ImgAlgorithm.hpp"
+           line_no="40"
+           routine="ImgFractal::operator()"
+           is_vectorized="1"
+           self_time="1.043981E+00"
+           total_time="6.611967E+00"
+           trip_counts=""
+           func_instance="128"
+           priority="0"/>
+</IntelParallelAdvisorSummary >

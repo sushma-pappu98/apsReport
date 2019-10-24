@@ -1,0 +1,1 @@
+/opt/intel/inteloneapi/compiler/latest/linux/bin/dpcpp  -O2 -g -DNDEBUG  -rdynamic CMakeFiles/gamma_correction.dir/main.cpp.o  -o gamma_correction -lOpenCL -lsycl 

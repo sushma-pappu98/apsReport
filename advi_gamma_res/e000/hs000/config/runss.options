@@ -1,0 +1,15 @@
+-r
+/home/u30005/sushma/gamma-correction/advi_gamma_res/e000/hs000
+-quiet
+--mrte-mode=auto
+--follow-child
+--strategy=ld-linux.so.2:notrace:notrace,ld-linux-x86-64.so.2:notrace:notrace
+--interval=10
+--data-limit-mb=500
+--stack-stitching
+--stackwalk=offline
+--mrte-type=java,python
+--type=cpu:stack
+--opencl-trace-mode=default
+--
+/home/u30005/sushma/gamma-correction/src/gamma_correction

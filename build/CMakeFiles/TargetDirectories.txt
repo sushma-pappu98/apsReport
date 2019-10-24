@@ -1,0 +1,6 @@
+/home/u30005/sushma/gamma-correction/build/CMakeFiles/rebuild_cache.dir
+/home/u30005/sushma/gamma-correction/build/CMakeFiles/edit_cache.dir
+/home/u30005/sushma/gamma-correction/build/src/CMakeFiles/edit_cache.dir
+/home/u30005/sushma/gamma-correction/build/src/CMakeFiles/rebuild_cache.dir
+/home/u30005/sushma/gamma-correction/build/src/CMakeFiles/gamma_correction.dir
+/home/u30005/sushma/gamma-correction/build/src/CMakeFiles/run.dir

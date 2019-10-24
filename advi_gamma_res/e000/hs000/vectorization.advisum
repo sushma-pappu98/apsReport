@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE IntelParallelAdvisorSummaryCollection SYSTEM  "IntelParallelAdvisorSummaryCollection.dtd"> -->
+
+<IntelParallelAdvisorSummary version="" 
+                             kind="DATAKIND_SURVEY_EX" >
+  <hotspot filename=""
+           line_no="4294967295"
+           routine="_GLOBAL__sub_I_acl_platform.cpp"
+           is_vectorized="0"
+           self_time="7.987267E-03"
+           total_time="7.987267E-03"
+           trip_counts=""
+           func_instance="3"
+           priority="0"/>
+  <hotspot filename=""
+           line_no="4294967295"
+           routine="func@0x2a1e00"
+           is_vectorized="0"
+           self_time="1.200116E-02"
+           total_time="1.200116E-02"
+           trip_counts=""
+           func_instance="540"
+           priority="0"/>
+  <hotspot filename=""
+           line_no="4294967295"
+           routine="llvm::StringMapImpl::RehashTable"
+           is_vectorized="0"
+           self_time="1.199991E-02"
+           total_time="1.199991E-02"
+           trip_counts=""
+           func_instance="1167"
+           priority="0"/>
+  <hotspot filename=""
+           line_no="4294967295"
+           routine="llvm::StringMapImpl::LookupBucketFor"
+           is_vectorized="0"
+           self_time="7.997438E-03"
+           total_time="7.997438E-03"
+           trip_counts=""
+           func_instance="1732"
+           priority="0"/>
+  <hotspot filename="/home/u30005/sushma/gamma-correction/src/utils/ImgAlgorithm.hpp"
+           line_no="40"
+           routine="ImgFractal::operator()"
+           is_vectorized="1"
+           self_time="1.043981E+00"
+           total_time="6.611967E+00"
+           trip_counts=""
+           func_instance="128"
+           priority="0"/>
+</IntelParallelAdvisorSummary >

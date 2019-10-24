@@ -1,0 +1,31 @@
+# AMPLXE_PERF_STAT
+# hostname : s001-n182
+# os release : 4.15.18
+# arch : x86_64
+# cpuid : GenuineIntel,6,158,10
+# cpudesc : Intel(R) Xeon(R) E-2176G CPU @ 3.70GHz
+# total memory : 65774464 kB
+# nrcpus online : 12
+# nrcpus avail : 12
+# sibling cores : 0-11
+# sibling threads : 0,6
+# sibling threads : 1,7
+# sibling threads : 2,8
+# sibling threads : 3,9
+# sibling threads : 4,10
+# sibling threads : 5,11
+# process id : 9664
+;;31322048032;0
+;;29698330662;1
+;;61408829703;2
+;;192793015;3
+;;192744508;4
+;;0;5
+;;0;6
+;;4;7
+;;16330427841;8
+;;0;9
+;;0;10
+;;179399;11
+;;66456587553;12
+;;75227125500;13
